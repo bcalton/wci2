@@ -4,20 +4,20 @@ DirectoryIndex
 RewriteEngine On
 
 # thredds
-RewriteCond %{REQUEST_URI} ^/thredds/.*
-RewriteRule thredds/(.*) http://vortices.npm.ac.uk/thredds/$1 [P]
+RewriteCond %{REQUEST_URI} ^/thredds.*
+RewriteRule thredds(.*) http://vortices.npm.ac.uk/thredds$1 [P]
 
 # WMS
-RewriteCond %{REQUEST_URI} ^/wms/.*
-RewriteRule wms/(.*) http://vortices.npm.ac.uk/thredds/wms/$1 [P]
+RewriteCond %{REQUEST_URI} ^/wms.*
+RewriteRule wms(.*) http://vortices.npm.ac.uk/thredds/wms$1 [P]
 
 #WCS
-RewriteCond %{REQUEST_URI} ^/wcs/.*
-RewriteRule wcs/(.*) http://vortices.npm.ac.uk/thredds/wcs/$1 [P]
+RewriteCond %{REQUEST_URI} ^/wcs.*
+RewriteRule wcs(.*) http://vortices.npm.ac.uk/thredds/wcs$1 [P]
 
 #OPeNDAP
-RewriteCond %{REQUEST_URI} ^/opendap/.*
-RewriteRule opendap/(.*) http://vortices.npm.ac.uk/thredds/opendap/$1 [P]
+RewriteCond %{REQUEST_URI} ^/opendap.*
+RewriteRule opendap(.*) http://vortices.npm.ac.uk/thredds/opendap$1 [P]
 
 
 # Use the content from the WordPress site rather than local
