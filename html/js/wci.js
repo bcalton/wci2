@@ -8,7 +8,7 @@ function goToByScroll(id){
         'slow');
 }
 
-$("ul.navbar-nav > li > a").click(function(e) { 
+$("ul.navbar-nav > li > a[href='#']").click(function(e) { 
 	e.preventDefault(); 
    goToByScroll($(this).attr("id"));           
 });
