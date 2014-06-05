@@ -1,5 +1,3 @@
-#Options -Indexes  # bac 20140311 Can't turn it off but you can set it to nothing 
-DirectoryIndex
 
 RewriteEngine On
 
