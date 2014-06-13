@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+   <channel>
+      <title>eartH2Observe Data Publication Feed</title>
+      <link>http://wci.earth2observe.eu</link>
+      <description></description>
+      <language>en-gb</language>
+      <pubDate>Fri, 13 Jun 2014 14:00:00 GMT</pubDate>
+      <lastBuildDate>Fri, 13 Jun 2014 14:00:00 GMT</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>bac</generator>
+      <managingEditor>editor@example.com</managingEditor>
+      <webMaster>webmaster@example.com</webMaster>
+      <item>
+         <title>ECMWF Forcing v0</title>
+         <link>http://wci.earth2observe.eu/thredds/catalog.html</link>
+         <description>The ECMWF Forcing data is available in thredds in non-aggregated and aggregated format</description>
+         <pubDate>Tue, 03 Jun 2003 09:39:21 GMT</pubDate>
+         <guid>http://wci.earth2observe.eu/thredds/catalog/ecmwf/met_forcing_v0/catalog.html</guid>
+      </item>
+      <item>
+         <title>GRDC River Discharge</title>
+         <link>http://wci.earth2observe.eu/thredds-restricted/catalog/grdc/catalog.html</link>
+         <description>GRDC River discharge data for 22 stations is available on thredds. This dataset is not redistributable and so should not be used outside the eartH2Observe project; for this reason the data is available on the restricted access thredds instance so you will need the username/password to gain access to the data. You can find the login details on the project wiki at https://publicwiki.deltares.nl/display/INFORMED/Data+Access+and+THREDDS</description>
+         <pubDate>Tue, 03 Jun 2003 09:39:21 GMT</pubDate>
+         <guid>http://wci.earth2observe.eu/thredds-restricted/catalog/grdc/catalog.html</guid>
+      </item>
+   </channel>
+</rss>
