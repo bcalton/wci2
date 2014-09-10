@@ -5,12 +5,19 @@
       <link>http://wci.earth2observe.eu</link>
       <description></description>
       <language>en-gb</language>
-      <pubDate>Fri, 13 Jun 2014 14:00:00 GMT</pubDate>
-      <lastBuildDate>Fri, 13 Jun 2014 14:00:00 GMT</lastBuildDate>
+      <pubDate>Wed, 10 Sep 2014 19:10:41 GMT</pubDate>
+      <lastBuildDate>Wed, 10 Sep 2014 19:10:41 GMT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>bac</generator>
       <managingEditor>editor@example.com</managingEditor>
       <webMaster>webmaster@example.com</webMaster>
+      <item>
+         <title>ESA CCI Soil Moisture</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/tuw/esa-cci-soilmoisture/catalog.html</link>
+         <description>ESA CCI Soil Moisture data, which is the baseline product against which all improvements will be made, is available in thredds in non-aggregated and aggregated format. </description>
+         <pubDate>Wed, 10 Sep 2014 19:10:41 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/tuw/esa-cci-soilmoisture/catalog.html</guid>
+      </item>
       <item>
          <title>ECMWF Forcing v0</title>
          <link>http://wci.earth2observe.eu/thredds/catalog.html</link>
