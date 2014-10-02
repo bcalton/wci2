@@ -2,15 +2,22 @@
 <rss version="2.0">
    <channel>
       <title>eartH2Observe Data Publication Feed</title>
-      <link>http://wci.earth2observe.eu</link>
+      <link>https://wci.earth2observe.eu</link>
       <description></description>
       <language>en-gb</language>
-      <pubDate>Wed, 10 Sep 2014 19:10:41 GMT</pubDate>
-      <lastBuildDate>Wed, 10 Sep 2014 19:10:41 GMT</lastBuildDate>
+      <pubDate>Thu, 02 Oct 2014 15:45:00 GMT</pubDate>
+      <lastBuildDate>Thu, 02 Oct 2014 15:45:00 GMT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>bac</generator>
       <managingEditor>editor@example.com</managingEditor>
       <webMaster>webmaster@example.com</webMaster>
+      <item>
+         <title>MOD16 Evapotranspiration</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/deltares/aet-pet/catalog.html</link>
+         <description>Actual and potential evapotranspiration data from the satellite MOD16 dataset, which were corrected for New Zealand ground-observed data. Both data contain uncertainty estimates as well.</description>
+         <pubDate>Thu, 02 Oct 2014 15:45:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/deltares/aet-pet/catalog.html</guid>
+      </item>
       <item>
          <title>ESA CCI Soil Moisture</title>
          <link>https://wci.earth2observe.eu/thredds/catalog/tuw/esa-cci-soilmoisture/catalog.html</link>
