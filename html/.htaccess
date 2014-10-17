@@ -1,6 +1,9 @@
 
 RewriteEngine On
 
+RewriteCond %{REQUEST_URI} ^/plotting/.*
+RewriteRule plotting/(.*) http://localhost:8112/$1 [P]
+
 # proxy /thredds to tomcat
 # this header tell nginx to connect to tomcat on the secure port and so return https:// urls
 RequestHeader add X-Vortices "secure"
