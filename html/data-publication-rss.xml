@@ -12,6 +12,48 @@
       <managingEditor>editor@example.com</managingEditor>
       <webMaster>webmaster@example.com</webMaster>
       <item>
+         <title>TRMM-3B42 3-Hourly Rainfall Rate</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/cnr/3b42-3h/catalog.html</link>
+         <description>Rainfall rate (high quality rainfall, IR rainfall) and relative error</description>
+         <pubDate>Thu, 04 Dec 2014 17:55:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/cnr/3b42-3h/catalog.html</guid>
+      </item>
+      <item>
+         <title>TRMM-3B42 Daily Rainfall Rate</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/cnr/3b42-daily/catalog.html</link>
+         <description></description>
+         <pubDate>Thu, 04 Dec 2014 17:55:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/cnr/3b42-daily/catalog.html</guid>
+      </item>
+      <item>
+         <title>CMORPH Daily Rainfall Total</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/cnr/cmorph-daily/catalog.html</link>
+         <description>CPC Morphing Technique ("CMORPH") daily rainfall</description>
+         <pubDate>Thu, 04 Dec 2014 17:55:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/cnr/cmorph-daily/catalog.html</guid>
+      </item>
+      <item>
+         <title>TAMSAT Rainfall Estimate Dekadal</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/cnr/tamsat-rfe-dekadal/catalog.html</link>
+         <description>Dekadal rainfall estimate from TAMSAT Research Group, Meteorology Department, University of Reading, UK</description>
+         <pubDate>Thu, 04 Dec 2014 17:55:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/cnr/tamsat-rfe-dekadal/catalog.html</guid>
+      </item>
+      <item>
+         <title>TAMSAT Rainfall Estimate Monthly</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/cnr/tamsat-rfe-monthly/catalog.html</link>
+         <description>Monthly rainfall estimate from TAMSAT Research Group, Meteorology Department, University of Reading, UK</description>
+         <pubDate>Thu, 04 Dec 2014 17:55:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/cnr/tamsat-rfe-monthly/catalog.html</guid>
+      </item>
+      <item>
+         <title>GSMaP Hourly Rainfall Rate</title>
+         <link>https://wci.earth2observe.eu/thredds-restricted/catalog/cnr/gsmap-hourly/catalog.html</link>
+         <description>Dataset from the GSMaP_MVK hourly rain rate v5.222.1</description>
+         <pubDate>Thu, 04 Dec 2014 17:55:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds-restricted/catalog/cnr/gsmap-hourly/catalog.html</guid>
+      </item>
+      <item>
          <title>MOD16 Evapotranspiration</title>
          <link>https://wci.earth2observe.eu/thredds/catalog/deltares/aet-pet/catalog.html</link>
          <description>Actual and potential evapotranspiration data from the satellite MOD16 dataset, which were corrected for New Zealand ground-observed data. Both data contain uncertainty estimates as well.</description>
