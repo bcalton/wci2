@@ -5,12 +5,68 @@
       <link>https://wci.earth2observe.eu</link>
       <description></description>
       <language>en-gb</language>
-      <pubDate>Thu, 02 Oct 2014 15:45:00 GMT</pubDate>
-      <lastBuildDate>Thu, 02 Oct 2014 15:45:00 GMT</lastBuildDate>
+      <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+      <lastBuildDate>Wed, 21 Jan 2015 12:40:00 GMT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>bac</generator>
       <managingEditor>editor@example.com</managingEditor>
       <webMaster>webmaster@example.com</webMaster>
+      <item>
+         <title>CSIRO Water Resource Re-analysis v1</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/csiro/wrr1/catalog.html</link>
+         <description>WRR version 1 release of CSIRO's W3RA model run</description>
+         <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/csiro/wrr1/catalog.html</guid>
+      </item>
+      <item>
+         <title>ECMWF Water Resource Re-analysis v1</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/ecmwf/wrr1/catalog.html</link>
+         <description>WRR version 1 release of ECMWF's HTESSEL model run</description>
+         <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/ecmwf/wrr1/catalog.html</guid>
+      </item>
+      <item>
+         <title>ETH Water Resource Re-analysis v1</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/eth/wrr1/catalog.html</link>
+         <description>WRR version 1 release of ETH's model run</description>
+         <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/eth/wrr1/catalog.html</guid>
+      </item>
+      <item>
+         <title>ETH Water Resource Re-analysis v1 (exp1)</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/eth/wrr1-exp1/catalog.html</link>
+         <description>WRR version 1 release of ETH's model run (exp1)</description>
+         <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/eth/wrr1-exp1/catalog.html</guid>
+      </item>
+      <item>
+         <title>Uni Kassel Water Resource Re-analysis v1</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/univk/wrr1/catalog.html</link>
+         <description>WRR version 1 release of Universitat Kassel's WaterGAP3 model run</description>
+         <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/univk/wrr1/catalog.html</guid>
+      </item>
+      <item>
+         <title>UU Water Resource Re-analysis v1</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/uu/wrr1/catalog.html</link>
+         <description>WRR version release of Universiteit Utrecht's PCR-GLOBWB model run</description>
+         <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/uu/wrr1/catalog.html</guid>
+      </item>
+      <item>
+         <title>Global Streamflow Characteristics Dataset</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/jrc/gscd/catalog.html</link>
+         <description>The Global Streamflow Characteristics Dataset (GSCD) consists of global maps of 17 streamflow characteristics, including baseflow index, runoff coefficient, and flow timing, providing information about catchment behavior for the entire land surface including ungauged regions. The maps are unique in the sense that they were derived using a data-driven (top down) approach based on streamflow observations from an unprecedentedly large dataset of approximately 7500 catchments around the globe, rather than using a physically-based (bottom up) process model. The GSCD can be used for a wide range of large-scale hydrological applications, such as water resource assessments, catchment classification, groundwater recharge estimation, stream ecosystem assessments, and diagnosis and parameterization of macro-scale hydrological models. See Beck et al. [2013] and Beck et al. [2014] for further details.</description>
+         <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/jrc/gscd/catalog.html</guid>
+      </item>
+      <item>
+         <title>ESA CCI Surface Soil Moisture Combined Product</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/tuw/esa-cci-soilmoisture/catalog.html</link>
+         <description>A global soil moisture product at 0.25degree resolution produced during the ESA CCI project.</description>
+         <pubDate>Wed, 21 Jan 2015 12:40:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/tuw/esa-cci-soilmoisture/catalog.html</guid>
+      </item>      
       <item>
          <title>TRMM-3B42 3-Hourly Rainfall Rate</title>
          <link>https://wci.earth2observe.eu/thredds/catalog/cnr/3b42-3h/catalog.html</link>
