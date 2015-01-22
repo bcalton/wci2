@@ -12,6 +12,13 @@
       <managingEditor>editor@example.com</managingEditor>
       <webMaster>webmaster@example.com</webMaster>
       <item>
+         <title>Meteo France Water Resource Re-analysis v1</title>
+         <link>https://wci.earth2observe.eu/thredds/catalog/metfr/wrr1/catalog.html</link>
+         <description>WRR version 1 release of Meteo France's SURFEX model run</description>
+         <pubDate>Thu, 22 Jan 2015 17:50:00 GMT</pubDate>
+         <guid>https://wci.earth2observe.eu/thredds/catalog/metfr/wrr1/catalog.html</guid>
+      </item>
+      <item>
          <title>CSIRO Water Resource Re-analysis v1</title>
          <link>https://wci.earth2observe.eu/thredds/catalog/csiro/wrr1/catalog.html</link>
          <description>WRR version 1 release of CSIRO's W3RA model run</description>
